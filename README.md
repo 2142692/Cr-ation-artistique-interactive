@@ -5,6 +5,7 @@ Pour le côté artistique j'ai fais des recherches pour m'inspirer. j'ai trouver
 
 ![max](medias/max.PNG)
 
-## Vidéo d'inspiration
+## Inspiration
 
-[inspiration](https://www.youtube.com/watch?v=eMfxO_PxZlk)
+(https://www.youtube.com/watch?v=eMfxO_PxZlk)
+(http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_0_02)
