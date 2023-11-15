@@ -1,5 +1,5 @@
 # Création artistique interactive
-Pour le côté artistique j'ai fais des recherches pour m'inspirer. j'ai trouver une vidéo qui m'a inspiré aussi puis je l'ai reproduit dans max.
+Pour le côté artistique j'ai fais des recherches pour m'inspirer. J'ai trouvé une vidéo qui m'a inspiré, puis je l'ai reproduit dans max.
 
 [création interactive](https://youtu.be/qpILdWYjV24)
 
