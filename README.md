@@ -3,6 +3,8 @@ Pour le côté artistique j'ai fais des recherches pour m'inspirer. j'ai trouver
 
 [création interactive](https://youtu.be/qpILdWYjV24)
 
+![design](medias/design.PNG)
+
 ![max](medias/max.PNG)
 
 ## Inspiration
